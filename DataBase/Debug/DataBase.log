@@ -1,0 +1,8 @@
+﻿  Table.cpp
+c:\users\user\desktop\database\database\database\table.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\database\database\database\table.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\database\database\database\table.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\database\database\database\table.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\database\database\database\table.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\database\database\database\table.cpp(250): warning C4018: '<': signed/unsigned mismatch
+  DataBase.vcxproj -> C:\Users\User\Desktop\DataBase\DataBase\Debug\DataBase.exe
